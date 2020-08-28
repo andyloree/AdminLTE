@@ -163,7 +163,7 @@ if(strlen($showing) > 0)
             <p><strong>Filtering options:</strong></p>
             <ul>
                 <li>Click a value in a column to add/remove that value to/from the filter</li>
-                <li>Use <kbd>Ctrl</kbd> or <kbd>&#8984;</kbd> + <i class="fas fa-mouse-pointer"></i> to enable highlighting for copy paste</li>
+                <li>Use <kbd>Ctrl</kbd> or <kbd>&#8984;</kbd> + <i class="fas fa-mouse-pointer"></i> to enable highlighting for copy paste (long press on mobile)</li>
             </ul><br/><button type="button" id="resetButton" class="btn btn-default btn-sm text-red hidden">Clear filters</button>
         </div>
         <!-- /.box-body -->
